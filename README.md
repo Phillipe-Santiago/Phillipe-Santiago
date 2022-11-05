@@ -1,6 +1,4 @@
 
-<div>
-
 <p>
 <strong>Olá, mundo!</strong> Me chamo Phillipe Santiago Rosso Di San Secondo
 <p>
@@ -16,7 +14,6 @@ Estou cursando <strong>Engenharia da Computação</strong> no Instituto Brasilei
 
 ##
 
-</div>
 
 <div align="center">
   <a href="https://github.com/Phillipe-Santiago">
