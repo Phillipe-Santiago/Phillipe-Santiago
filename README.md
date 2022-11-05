@@ -20,8 +20,8 @@ Estou cursando <strong>Engenharia da Computação</strong> no Instituto Brasilei
 
 <div align="center">
   <a href="https://github.com/Phillipe-Santiago">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Phillipe-Santiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe-Santiago&layout=compact&langs_count=7&theme=dark"/>
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Phillipe-Santiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phillipe-Santiago&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
