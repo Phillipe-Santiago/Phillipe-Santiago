@@ -5,7 +5,7 @@
 ##
 
 <p>
-Estou cursando <strong>Engenharia da Computação</strong> no Instituto Brasileiro de Mercado de Capitais(IBMEC), no <strong>6º período</strong> e minha previsão de formatura é em 12/2024. <strong>Procuro estágio focado em back-end(Python, SQL, C e java)</strong>
+Estou cursando <strong>Engenharia da Computação</strong> no Instituto Brasileiro de Mercado de Capitais(IBMEC), no <strong>7º período</strong> e minha previsão de formatura é em 12/2024. <strong>Procuro estágio focado em back-end(Python, SQL, C e java)</strong>
 
 <p>
 🤖 Faço parte do projeto de desenvolvimento de soluções de automação residencial utilizando <strong>Arduino Mega2560</strong>.
