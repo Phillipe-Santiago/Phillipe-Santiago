@@ -44,4 +44,4 @@ Estou cursando <strong>Engenharia da Computação</strong> no Instituto Brasilei
   
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Phillipe-Santiago&theme=dracula&hide_border=true&area=true)
 
- <!-- [This content will not appear in the rendered Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+ <!-- (https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
